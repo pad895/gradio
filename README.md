@@ -23,7 +23,7 @@
 | [Documentation](https://gradio.app/docs/)
 | [Guides](https://gradio.app/guides/)
 | [Getting Started](https://gradio.app/getting_started/)
-| [Examples](demo/)
+| [Examples](orginal/)
 
 </div>
 
