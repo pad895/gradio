@@ -1,7 +1,7 @@
 name: "install all deps"
 description: "Install all deps"
 
-inputs:
+inputs:@
   skip_build:
     description: "Skip build"
     default: "false"
